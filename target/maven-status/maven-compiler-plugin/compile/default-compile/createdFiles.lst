@@ -1,0 +1,3 @@
+com/shen/wxh/controller/wxAgent.class
+com/shen/wxh/model/book.class
+com/shen/wxh/dao/bookMapper.class
